@@ -11,7 +11,7 @@
   "radius": 9,
   "gradientStart": "#000000",
   "gradientStartAlpha": 75,
-  "gradientEnd": "#ff8faf",
+  "gradientEnd": "#000000",
   "gradientEndAlpha": 75,
   "showScreenTitle": true
 }

@@ -1,0 +1,8 @@
+# exclude exported curseforge/modrinth packs
+*.zip
+*.mrpack
+
+README.md
+
+# exclude asset project files
+project_files
