@@ -6,7 +6,7 @@ hash = "4e41dfc84047d92a645d9ca3c0ddf06036277ca739d85fbabc5c75ba11886f2d"
 
 [[files]]
 file = "config/yosbr/blur.json"
-hash = "c118f7ab0baf116aac0ef53bdf65e4c5446054b6fd84d53f2a24ac04452d1288"
+hash = "1d94b29882de95e8e9ff3b88b93235020b5ffb652bf1199e27fc302a6f254700"
 
 [[files]]
 file = "config/yosbr/borderlessmining.json"
@@ -23,14 +23,6 @@ hash = "1ea03400477ac2075d61ae58cfc573bc78ce954507d090ab69547de279918656"
 [[files]]
 file = "config/yosbr/craftpresence.properties"
 hash = "39396d62371c87eac0358069c48eda8ba1a6732594e57205781316277d151780"
-
-[[files]]
-file = "config/yosbr/custom-hud/config.json"
-hash = "d3edcc8cc6e1a965fd20ee116dcfffdb4f940abf89fa11584c05817bb2d1fc2f"
-
-[[files]]
-file = "config/yosbr/custom-hud/profile1.txt"
-hash = "af84c0b15bb78f037086880da91bfc1661cf33f27360db1ae2cfd21083ced979"
 
 [[files]]
 file = "config/yosbr/emi.css"
@@ -57,10 +49,6 @@ file = "config/yosbr/iris.properties"
 hash = "0430b83e0962a1c5726c507e2771112af64badeb010c49638e2e717bce0ecfab"
 
 [[files]]
-file = "config/yosbr/isxander-main-menu-credits.json"
-hash = "3aabec5642edf0907c7c9f95e39c093f8f2711a23ee63bf018deaa3a006141b8"
-
-[[files]]
 file = "config/yosbr/minihud.json"
 hash = "368e9841433aad1f47d4caf09ec9a3973e56c9719d84c1aa54df0d9471e922a6"
 
@@ -74,7 +62,7 @@ hash = "de7e51696e9df0dd887c7525222de80608dd4884203d0166b3979caa3f57cb4c"
 
 [[files]]
 file = "config/yosbr/puzzle.json"
-hash = "b562484e864d9d2f28e1dbded720cff7ada38a252f9234a2a0e22353c0032b77"
+hash = "7dddd9b8df252ed38ad83a27d0d49145c1697abdf1d7ddb1a24ae6cf7683f6df"
 
 [[files]]
 file = "config/yosbr/sodium-extra-options.json"
